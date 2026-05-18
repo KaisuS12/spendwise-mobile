@@ -91,9 +91,9 @@ Scan the QR code with Expo Go on your Android device.
 
 ## APK Download
 
-> **[Download APK](https://expo.dev/accounts/kaisu12/projects/spendwise/builds/0e7c4387-c1ae-4d4f-bdff-a9fc6144c664)**
+> **[Download APK](https://expo.dev/accounts/kaisu12/projects/spendwise/builds/9b09194b-9bf7-4886-a920-56f5096779d9)**
 
-Scan the QR code on that page or open the link directly on an Android device to install.
+Open the link on your Android device and tap **Download** to install. No Play Store needed.
 
 ---
 
